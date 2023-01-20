@@ -1,2 +1,6 @@
 This is config file
+<<<<<<< HEAD
 Adding a new line to create the merge conflict
+=======
+Well let create a confict by adding this line
+>>>>>>> testing
